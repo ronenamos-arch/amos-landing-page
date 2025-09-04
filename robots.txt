@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ronenamos-arch.github.io/amos-landing-page/sitemap.xml
